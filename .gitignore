@@ -1,0 +1,8 @@
+# Byte-compiled files
+__pycache__/
+
+# Enviroment variable
+596Eindividual/
+
+# Test inputs folder
+inputs/
